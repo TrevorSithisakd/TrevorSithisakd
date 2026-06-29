@@ -27,7 +27,7 @@ I'm currently working on if technique can overcome poor data for finnacial forec
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-2C3E50?style=for-the-badge&logo=docker&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-002C76?style=for-the-badge&logo=docker&logoColor=white)
 
 </details>
 <!--
