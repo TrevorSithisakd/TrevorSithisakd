@@ -4,13 +4,15 @@ I'm Trevor, an aspiring ML researcher from Sydney. This page is where I share my
 I'm currently working on if technique can overcome poor data for finnacial forecasting.
 
 <details>
-<summary>More about me</summary>
-- I’m currently learning quantitative modeling
+<summary>🤔More about me</summary>
+- I’m currently learning machine learning for finnaical time series 
+  
 - I'm looking to collaborate on opensource ML projects
 - I'm looking for help with finding a J.O.B ;-; (Please reach out if you take any interest in me)
 - Ask me about counter-strike
 - How to reach me: sithisakdt@gmail.com
-- Fun Fact: I finally climbed a V7!
+- Fun Fact: I finally climbed a V7🧗!
+
 
 </details>
 <!--
