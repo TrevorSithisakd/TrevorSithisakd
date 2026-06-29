@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm Trevor, an aspiring ML researcher from Sydney. 
 
-This page is where I share all my hard work
-
 I'm currently working on if technique can overcome poor data for finnacial forecasting.
 
 <details>
