@@ -1,16 +1,14 @@
 ## Hi there 👋
 I'm Trevor, an aspiring ML researcher from Sydney. 
 
-I'm currently working on if technique can overcome poor data for finnacial forecasting.
+I'm currently working on if technique can overcome poor data for financial forecasting.
 
 <details>
 <summary>🤔More about me</summary>
   
-- I’m currently learning machine learning for finnaical time series
+- I’m currently learning machine learning for financial time series
 
-- I'm looking to collaborate on opensource ML projects
-
-- I'm looking for help with finding a J.O.B ;-; (Please reach out if you have taken any interest in me)
+- I'm looking to collaborate on open source ML projects
 
 - Fun Fact: I finally climbed a V7🧗!
 
